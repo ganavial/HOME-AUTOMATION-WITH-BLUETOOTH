@@ -71,3 +71,6 @@ b → Turn OFF LED2
 
 📝 Note
 Since HC-05 Bluetooth modules are not available in Tinkercad, the project uses the Serial Monitor to simulate Bluetooth communication. The logic and functionality are equivalent to a real-world Bluetooth-controlled system.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/ce7de463-e248-4cdf-b256-f067f427d2f7)
